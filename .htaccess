@@ -1,2 +1,1 @@
 # NOTE: .data is NOT compressed
-AddType application/octet-stream .data
